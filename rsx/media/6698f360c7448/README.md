@@ -7,6 +7,8 @@
      Học thi quốc tịch Mỹ - Civics
 --------------------------------------------
 
-+ URL: https://study.flashard.com/sl/6698f360c7448/hoc-thi-quoc-tich-my-civics.html
++ Study URL: https://study.flashard.com/sl/6698f360c7448/hoc-thi-quoc-tich-my-civics.html
+
++ Compose URL: https://www.kaggle.com/code/dinhttrandrise/flashard-com-cardset-6698f360c7448
 
 ```
