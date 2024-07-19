@@ -1,0 +1,7 @@
+Có 13 bang ban đầu. Nêu tên ba.
+
+=>
+
++ Virginia
++ North Carolina
++ South Carolina
