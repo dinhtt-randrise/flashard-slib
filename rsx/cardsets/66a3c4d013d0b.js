@@ -1,0 +1,1 @@
+DATA = {"guest_made":true,"language":"en","title":"dinhtt-randrise \/ flashard-slib","card_list":[],"card_dict":[]};
